@@ -22,11 +22,11 @@ For security reasons browsers don't give webcam access to local files, so I used
 Run 
 ```
 npm install connect serve-static
-node server.js`
+node server.js
 ```
 
 This will install the necessary dependencies and run a local server.
-Open localhost:8080 on your browser to start the application.
+Open [localhost:8080](localhost:8080) on your browser to start the application.
 
 
 ### On a server:
