@@ -1,8 +1,5 @@
 var canvas,conxtext;
-vverage+=context.getImageData(i, j, 1, 1).data[1];
-            }
-        }
-ar unprocessedData=[];
+var unprocessedData=[];
 var processedData=[];
 var average=[0,0];
 
